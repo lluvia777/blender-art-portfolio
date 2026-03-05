@@ -1,1 +1,16 @@
-# blender-art-portfolio
+
+# My 3D Portfolio 🎨
+
+Welcome to my creative workspace! Here I share 3D models I've designed for games and animations.
+
+## ⚔️ Stylized Low-Poly Sword
+This is a low-poly sword model I designed for a basic MMORPG project.
+
+![My Sword]
+
+**Model Details:**
+* **Tools:** Blender 5.0.1
+* **Style:** Low-poly / Stylized
+* **Features:** Designed for game engine compatibility (optimized mesh).
+
+---
