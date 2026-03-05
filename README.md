@@ -1,10 +1,9 @@
 
 # My 3D Portfolio 🎨
 
-Welcome to my creative workspace! Here I share 3D models I've designed for games and animations.
-
+Welcome to my creative workspace! Here I share 3D models I've designed for games.
 ## ⚔️ Stylized Low-Poly Sword
-This is a low-poly sword model I designed for a basic MMORPG project.
+This is a low-poly sword model I designed for my basic MMORPG project.
 
 ![My Sword]
 
